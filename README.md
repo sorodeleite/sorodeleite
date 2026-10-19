@@ -18,28 +18,12 @@
 
 <br/><br/>
 
-<!-- IPOD MUSIC PLAYER CARD (ANIMADO A CADA 10 SEGUNDOS) -->
+<!-- IPOD (ANIMADO COM AS FOTOS) -->
 <a href="https://open.spotify.com/intl-pt/track/0scMB4WVJbCkVY8uLYPX11?si=baa903cb6e4f489c" target="_blank">
-  <img src="assets/ipod_player.gif" width="460" alt="iPod Classic - Now Playing" />
+  <img src="assets/ipod_player.gif" width="380" alt="iPod" />
 </a>
 
-<br/>
-
-<!-- MINI PLAYLIST LINKS -->
-<details>
-  <summary><b>⋆ ˚｡⋆୨ 🎧 click here to listen on spotify ୧⋆ ˚｡⋆</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://open.spotify.com/intl-pt/track/0scMB4WVJbCkVY8uLYPX11?si=baa903cb6e4f489c" target="_blank">01. Lucy Bedroque ᰔ How to Pretend</a><br/>
-    <a href="https://open.spotify.com/intl-pt/track/3BWXNAPGGWhCJwsOFolnBB?si=4563b3e413334c3b" target="_blank">02. KiiiKiii ᰔ Delulu</a><br/>
-    <a href="https://open.spotify.com/intl-pt/track/3Y2pwdrZKIOUqK0HvsWf0c?si=365d881c973545f4" target="_blank">03. ILLIT ᰔ Bubee</a><br/>
-    <a href="https://open.spotify.com/intl-pt/track/71R5qr3BGgdISGGLvXMJ3c?si=51e3576370b84cec" target="_blank">04. NASTYONA ᰔ Boy Meets Girl</a><br/>
-    <a href="https://open.spotify.com/intl-pt/track/3AxWH8Jaetu2HW7CeC8ZRL?si=fd3334f181a840f9" target="_blank">05. Miharu Koshi ᰔ Mona lisa</a><br/>
-    <a href="https://open.spotify.com/intl-pt/track/3EfmdOU1MBQ4GEULYCTbxX?si=d8e16f48a29842d7" target="_blank">06. AKB48 ᰔ Baby ! Baby ! Baby !</a>
-  </p>
-</details>
-
-<br/>
+<br/><br/>
 
 <!-- PIXEL LACE DIVIDER -->
 <img src="assets/tumblr_cd01ab74659e803475b8faaf0bae1733_fe104902_400.png" width="350" alt="Lace" />

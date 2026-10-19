@@ -6,7 +6,7 @@
 <br/><br/>
 
 <!-- HEADER TITLE -->
-<h1>˚ ༘ ೀ ⋆｡˚ <i>u3unicornioes</i> ˚｡⋆ ೀ ༘ ˚</h1>
+<h1>˚ ༘ ೀ ⋆｡˚ <i>u3unicornios</i> ˚｡⋆ ೀ ༘ ˚</h1>
 <p>
   <i>"How can I get into someone's dream? i need to deliver a message . . . ✧"</i><br/>
   ♡ #🥞𓂅  🥛🪡　⊹
@@ -58,7 +58,7 @@
 <br/>
 
 <!-- FRAGRANCE NOTE SECTION -->
-<p><b>─── ⋆⋅☆⋅⋆ ─── olfactory notes ─── ⋆⋅☆⋅⋆ ───</b></p>
+<p><b>─── ⋆⋅☆⋅⋆ ───⠀⠀⠀⠀🪷 🎼 🪽⠀⠀おお⠀polkadot AKA poá syndrome。 ─── ⋆⋅☆⋅⋆ ───</b></p>
 <img src="assets/fragrancenote.jpg" width="460" style="border-radius: 12px; border: 1px solid #FCD2E5;" alt="Fragrance Notes" />
 
 <br/><br/>

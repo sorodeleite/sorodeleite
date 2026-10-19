@@ -6,11 +6,12 @@
 <br/><br/>
 
 <!-- HEADER TITLE -->
-<h1>˚ ༘ ೀ ⋆｡˚ <i>soro de leite</i> ˚｡⋆ ೀ ༘ ˚</h1>
+<h1>˚ ༘ ೀ ⋆｡˚ <i>u3unicornioes</i> ˚｡⋆ ೀ ༘ ˚</h1>
 <p>
   <i>"How can I get into someone's dream? i need to deliver a message . . . ✧"</i><br/>
-  ♡ 🍼 ♡ 🍼 ♡ 🍼 ♡ 🍼 ♡<br/>
-  *ੈ✩‧₊˚ ♫ ﾟ･*:.｡. .｡.:*･゜ﾟ･* 🪽
+  ♡ #🥞𓂅  🥛🪡　⊹
+ ♡<br/>
+ ⠀⠀ ⠀⠀ ⠀⠀⠀ ྀི⠀ Diario Lolita⠀:⠀ 壊れやすい。 🪽
 </p>
 
 <!-- SCISSORS & HALO DIVIDER -->
@@ -86,7 +87,9 @@
 
 <!-- ABOUT ME / STATUS -->
 <p>
-  ೀ <b>about me</b> ೀ <br/>
+  ೀ <b>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ｗｈａｔ＇ｓ   ❤︎
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀♬︎ ｉｎ ｍｙ ｂａｇ</b> ೀ <br/>
   <i>sorodeleite</i> ᰔ she/her ᰔ aesthetic curation &amp; code <br/>
   <i>listening to:</i> 🎧 dream pop &bull; shoegaze &bull; k-pop ✨
 </p>

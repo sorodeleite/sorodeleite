@@ -89,7 +89,7 @@
 <p>
   ೀ <b>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ｗｈａｔ＇ｓ   ❤︎
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀♬︎ ｉｎ ｍｙ ｂａｇ</b> ೀ <br/>
+⠀⠀⠀⠀♬︎ ｉｎ ｍｙ ｂａｇ</b> ೀ <br/>
   <i>sorodeleite</i> ᰔ she/her ᰔ aesthetic curation &amp; code <br/>
   <i>listening to:</i> 🎧 dream pop &bull; shoegaze &bull; k-pop ✨
 </p>

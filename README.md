@@ -87,7 +87,7 @@
 
 <!-- ABOUT ME / STATUS -->
 <p>
-  ೀ <b>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ｗｈａｔ＇ｓ   ❤︎
+  ೀ <b>⠀⠀⠀⠀⠀ｗｈａｔ＇ｓ   ❤︎
 
 ⠀⠀⠀⠀♬︎ ｉｎ ｍｙ ｂａｇ</b> ೀ <br/>
   <i>sorodeleite</i> ᰔ she/her ᰔ aesthetic curation &amp; code <br/>

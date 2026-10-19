@@ -58,7 +58,7 @@
 <br/>
 
 <!-- FRAGRANCE NOTE SECTION -->
-<p><b>─── ⋆⋅☆⋅⋆ ───⠀⠀⠀⠀🪷 🎼 🪽⠀⠀おお⠀polkadot AKA poá syndrome。 ─── ⋆⋅☆⋅⋆ ───</b></p>
+<p><b>⠀⠀⠀⠀🪷 🎼 🪽⠀⠀おお⠀polkadot AKA poá syndrome</b></p>
 <img src="assets/fragrancenote.jpg" width="460" style="border-radius: 12px; border: 1px solid #FCD2E5;" alt="Fragrance Notes" />
 
 <br/><br/>

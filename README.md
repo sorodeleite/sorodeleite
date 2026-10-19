@@ -6,7 +6,7 @@
 <br/><br/>
 
 <!-- HEADER TITLE -->
-<h1>˚ ༘ ೀ ⋆｡˚ <i>u3unicornios</i> ˚｡⋆ ೀ ༘ ˚</h1>
+<h1>                    ♫   ❤︎  ͏͏ ͏ᨳິ     <i>u3unicornios</i>⠀～⁠ ～⁠ ～</h1>
 <p>
   <i>"How can I get into someone's dream? i need to deliver a message . . . ✧"</i><br/>
   ♡ #🥞𓂅  🥛🪡　⊹

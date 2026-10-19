@@ -11,7 +11,7 @@
 
 <!-- DIVISÓRIA KAOMOJI / ESTRELINHAS -->
 <p>
-˚. ✦.˳ · ˖ ˚ ୨୧ ˚ ˖ · ˳.✦ .˚<br/>
+start dreaming<br/>
   ⚇🪡     ⚉🪡    ⚇🪡    ⚉🪡    ⚇🪡    ⚉🪡    ⚇🪡 ∩<br/>
 *ੈ✩‧₊˚ ♫ ﾟ･*:.｡. .｡.:*･゜ﾟ･* 🪽
 </p>

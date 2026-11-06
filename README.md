@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- NOTEBOOK RINGS / TOP BANNER -->
 <img src="assets/tumblr_89eda529e3979095f1d4b3b171f6d992_afbd2586_540.png" width="100%" alt="Binder" />
 
 <br/><br/>
 
-<!-- HEADER TITLE -->
 <h1>                    ♫   ❤︎  ͏͏ ͏ᨳິ     <i>u3unicornios</i>⠀～⁠ ～⁠ ～</h1>
 <p>
   <i>"How can I get into someone's dream? i need to deliver a message . . . ✧"</i><br/>
@@ -14,24 +12,20 @@
  ⠀⠀ ⠀⠀ ⠀⠀⠀ ྀི⠀ Diario Lolita⠀:⠀ 壊れやすい。 🪽
 </p>
 
-<!-- SCISSORS & HALO DIVIDER -->
 <img src="assets/tumblr_a7a5c0918f944a5eee34075d5ed0c0e4_9b3faa6a_2048.png" width="85%" alt="Divider" />
 
 <br/><br/>
 
-<!-- IPOD (ANIMADO COM AS FOTOS) -->
 <a href="https://open.spotify.com/intl-pt/track/0scMB4WVJbCkVY8uLYPX11?si=baa903cb6e4f489c" target="_blank">
   <img src="assets/ipod_player.gif" width="380" alt="iPod" />
 </a>
 
 <br/><br/>
 
-<!-- PIXEL LACE DIVIDER -->
 <img src="assets/tumblr_cd01ab74659e803475b8faaf0bae1733_fe104902_400.png" width="350" alt="Lace" />
 
 <br/><br/>
 
-<!-- MOODBOARD / SCRAPBOOK GRID 1 -->
 <table>
   <tr>
     <td width="33.3%" align="center">
@@ -48,7 +42,6 @@
 
 <br/>
 
-<!-- AESTHETIC QUOTE -->
 <p>
   <i>"my hobbies? Uhhhhh symbolism mostly. metaphors and implications and the like."</i><br/>
   .・。.・゜✭・.・✫・゜・。. <br/>
@@ -57,13 +50,11 @@
 
 <br/>
 
-<!-- FRAGRANCE NOTE SECTION -->
 <p><b>⠀⠀⠀⠀🪷 🎼 🪽⠀⠀おお⠀polkadot AKA poá syndrome</b></p>
 <img src="assets/fragrancenote.jpg" width="460" style="border-radius: 12px; border: 1px solid #FCD2E5;" alt="Fragrance Notes" />
 
 <br/><br/>
 
-<!-- MOODBOARD / SCRAPBOOK GRID 2 -->
 <table>
   <tr>
     <td width="50%" align="center">
@@ -85,7 +76,6 @@
 
 <br/><br/>
 
-<!-- ABOUT ME / STATUS -->
 <p>
   ೀ <b>⠀⠀⠀⠀⠀ｗｈａｔ＇ｓ   ❤︎
 
@@ -96,7 +86,14 @@
 
 <br/>
 
-<!-- FOOTER WITH MERINGUE & KAOMOJI -->
+<!--
+  ✦ if you found this, the law is already working ✦
+  → i assume the best. i persist. i receive.
+  → "assume the feeling of the wish fulfilled" — neville goddard
+  → consciousness is the only reality. everything else is a reflection.
+  → she who imagines, creates. she who persists, manifests. ♡
+-->
+
 <img src="assets/tumblr_f86b0ebf5f5ba6d5f85d40758e703c9c_524577b0_500.png" width="70" alt="Meringue" /><br/>
 <p>
   ค ค  p♡ω,p♡ω  ค ค<br/>
